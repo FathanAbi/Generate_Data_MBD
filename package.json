@@ -1,0 +1,18 @@
+{
+  "name": "generate_data_mbd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@faker-js/faker": "^8.4.1",
+    "dotenv": "^16.4.5",
+    "faker": "^5.5.3",
+    "pg": "^8.12.0"
+  }
+}
